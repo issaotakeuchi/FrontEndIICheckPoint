@@ -2,6 +2,10 @@
   padding-bottom: 1%;
 }
 
+#adicionarCard {
+  padding: 1px;
+}
+
 .modal-header {
   background: #f7941e;
   color: #fff;
